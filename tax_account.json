@@ -1,0 +1,27 @@
+[
+    {
+        "IHT_estate_value": 1000000,
+        "tax_code": "125l",
+        "email": "aisha.khan@example.com"
+    },
+    {
+        "IHT_estate_value": 500000,
+		"tax_code": "125l",
+        "email": "james.smith@example.com"
+    },
+    {
+        "IHT_estate_value": 250000,
+		"tax_code": "125l",
+        "email": "sarah.jones@example.com"
+    },
+    {
+        "IHT_estate_value": 750000,
+		"tax_code": "125l",
+        "email": "michael.brown@example.com"
+    },
+    {
+        "IHT_estate_value": 1500000,
+		"tax_code": "125l",
+        "email": "lisa.taylor@example.com"
+    }
+]
